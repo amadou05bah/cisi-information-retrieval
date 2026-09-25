@@ -13,10 +13,9 @@ Projet réalisé en binôme avec **Melissa Boko**, dans le cadre du cours de Tra
 
 | Métrique | Système 1 : TF-IDF | Système 2 : dense + re-ranking |
 |---|---|---|
-| MAP | [X] | [X] |
-| Précision | [X] | [X] |
-| Rappel | [X] | [X] |
-| F-mesure | [X] | [X] |
+| Précision | 15.1 | [17.6 |
+| Rappel | 22.8 | 22.3 |
+| F-mesure | 18.2 | 19.6 |
 
 **En résumé :** [ex. « le système neuronal améliore la MAP de X points par rapport au TF-IDF, notamment sur les requêtes dont les documents pertinents n'emploient pas les mêmes termes »].
 
