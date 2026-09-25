@@ -13,7 +13,7 @@ Projet réalisé en binôme avec **Melissa Boko**, dans le cadre du cours de Tra
 
 | Métrique | Système 1 : TF-IDF | Système 2 : dense + re-ranking |
 |---|---|---|
-| Précision | 15.1 | [17.6 |
+| Précision | 15.1 | 17.6 |
 | Rappel | 22.8 | 22.3 |
 | F-mesure | 18.2 | 19.6 |
 
